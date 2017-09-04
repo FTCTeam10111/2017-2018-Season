@@ -6,3 +6,5 @@ Make sure the code is clearly labelled as being TeleOp or Autonomous as well as 
 
 # For uploading CAD files
 Try to limit how many versions you upload by uploading the final version from each stage. As with code, please use a clear and uniform naming convention to avoid confusion. Thanks and good luck!
+
+# Programming Team Current Members
